@@ -9,7 +9,7 @@ public class Main {
         System.out.println(users.getClass());
         create(users,"Agus");
         create(users, "Mati");
-        create(users, "Alan");
+        create(users, "Lauti");
 
         System.out.println("Before delete");
         listUsers(users);
