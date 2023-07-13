@@ -8,7 +8,7 @@ public class Main {
         MemoryUsers users = new MemoryUsers();
         System.out.println(users.getClass());
         create(users,"Agus");
-        create(users, "Victor");
+        create(users, "Mati");
         create(users, "Alan");
 
         System.out.println("Before delete");
