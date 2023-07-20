@@ -1,0 +1,3 @@
+Negro,Volkswagen,Gol Trend,300
+Blanco,Chevrolet,Meriva,280
+Gris,Fiat,Duna,250
